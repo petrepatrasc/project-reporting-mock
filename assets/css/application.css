@@ -1,0 +1,11 @@
+@import "landing.css";
+
+body {
+    background-color: #28497F;
+    color: #fff;
+    font-size: 55px;
+}
+
+.success {
+    color: #499989;
+}
